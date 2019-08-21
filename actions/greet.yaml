@@ -1,7 +1,7 @@
 ---
 name: greet
 pack: rish_pack
-runner_type: "python_script"
+runner_type: "local-shell-script"
 description: Greet StackStorm!
 enabled: true
 entry_point: greet.sh
