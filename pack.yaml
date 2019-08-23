@@ -2,7 +2,7 @@
 ref: rish_pack
 name: DeathRattle
 # User-friendly pack description.
-description: Simple pack containing examples of sensor, rule, and action.
+description: Simple pack containing examples of action.
 # Keywords which are used when searching for packs.
 keywords:
     - example
