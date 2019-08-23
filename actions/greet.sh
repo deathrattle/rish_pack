@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$1, StackStorm!"
+echo "$1, Stack!"
